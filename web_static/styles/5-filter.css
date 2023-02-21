@@ -37,6 +37,7 @@
     height: 100%;
     width: 25%;
     border-right: 1px solid #DDDDDD;
+    line-height: 100%;
 }
 
 .filters h3 {
